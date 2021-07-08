@@ -1,1 +1,1 @@
-# Cleaned Technical Manual and User Guide
+# CLEANED Technical Manual and User Guide
